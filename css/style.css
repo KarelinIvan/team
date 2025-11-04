@@ -22,22 +22,35 @@
 }
 
 .team__inner {
+    text-align: center;
 }
 .team__title {
+    font-family: Gotham;
 }
 .team__line {
+    width: 184px;
+    height: 3px;
+    background-color: #303030;
+    margin: 0 auto;
 }
 .team__text {
+    font-family: Proxima;
 }
 .cards {
+    display: flex;
+    justify-content: space-between;
 }
 .item {
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px 0px rgba(0, 1, 1, 0.2);
 }
 .item__img {
 }
 .item__title {
 }
 .item__text {
+    font-family: Georgia;
 }
 .team__icons {
 }
