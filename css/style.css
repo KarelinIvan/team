@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Gotham;
+    src: url(../fonts/Gotham-Bold.otf);
+}
+
+@font-face {
+    font-family: Proxima;
+    src: url(../fonts/proximanova-regular.otf);
+}
+
 * {
     box-sizing: border-box;
 }
@@ -9,4 +19,35 @@
 
 .team {
     background-color: #f3f3f3;
+}
+
+.team__inner {
+}
+.team__title {
+}
+.team__line {
+}
+.team__text {
+}
+.cards {
+}
+.item {
+}
+.item__img {
+}
+.item__title {
+}
+.item__text {
+}
+.team__icons {
+}
+.fa {
+}
+.fa-twitter {
+}
+.fa-linkedin {
+}
+.fa-dribbble {
+}
+.fa-skype {
 }
